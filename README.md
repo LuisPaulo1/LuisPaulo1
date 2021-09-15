@@ -1,6 +1,6 @@
 ### Olá, sou Luis Paulo 👋
 
-- 👨‍💻 Atualmente trabalhando com Full Stack utilizando as stacks Java e Spring no backend e React no frontend
+- 👨‍💻 Atualmente trabalhando com Full Stack utilizando Java e Spring no Backend e React no Frontend
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
 - 😄 Pronouns: ele/dele
