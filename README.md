@@ -1,8 +1,10 @@
-### Olá, bem vindo ao meu perfil! 🤝
+<h2> Olá, bem vindo ao meu perfil! 🤝🏻 <h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisPaulo1" alt="Luis Paulo" /> </p>
 
-- 👨‍💻 Atualmente trabalhando com Full Stack utilizando Java e Spring no Backend e React no Frontend
+<h3> 👨🏻‍💻 Sobre mim </h3>
+
+- 💼 Atualmente trabalhando com Full Stack utilizando Java e Spring no Backend e React no Frontend
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
 - 😄 Pronomes: ele/dele
