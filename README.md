@@ -3,7 +3,7 @@
 - 👨‍💻 Atualmente trabalhando com Full Stack utilizando Java e Spring no Backend e React no Frontend
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/LuisPaulo1">
@@ -27,12 +27,12 @@
    <a href = "mailto:csluispaulo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://steamcommunity.com/profiles/76561198094154604/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/LuisPaulo1/LuisPaulo1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuisPaulo1/LuisPaulo1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
 Pinned
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=curso-git)](https://github.com/LuisPaulo1/DSVendas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=DSVendas)](https://github.com/LuisPaulo1/DSVendas)
   
   
