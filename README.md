@@ -31,4 +31,7 @@
  
 </div>
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=curso-git)](https://github.com/LuisPaulo1/curso-git)
+
+  
   
