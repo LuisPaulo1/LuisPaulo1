@@ -1,8 +1,8 @@
-<h2> Olá, bem vindo ao meu perfil! 🤝🏻 <h2>
+<h2>Olá, bem vindo ao meu perfil! 🤝🏻</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisPaulo1" alt="Luis Paulo" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LuisPaulo1" alt="Luis Paulo" /></p>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3>👨🏻‍💻 Sobre mim</h3>
 
 - 💼 Atualmente trabalhando com Full Stack utilizando Java e Spring no Backend e React no Frontend
 - 💻 Estudando React, Microsserviços e Devops
@@ -31,14 +31,11 @@
    <a href = "mailto:csluispaulo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://steamcommunity.com/profiles/76561198094154604/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
    
-![Snake animation](https://github.com/LuisPaulo1/LuisPaulo1/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://github.com/LuisPaulo1/LuisPaulo1/blob/output/github-contribution-grid-snake.svg)   
 </div>
  
-Pinned
+Fixado
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=DSVendas)](https://github.com/LuisPaulo1/DSVendas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=busca-cep)](https://github.com/LuisPaulo1/busca-cep)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=bds-layout-desafio)](https://github.com/LuisPaulo1/bds-layout-desafio)
-  
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=bds-layout-desafio)](https://github.com/LuisPaulo1/bds-layout-desafio) 
