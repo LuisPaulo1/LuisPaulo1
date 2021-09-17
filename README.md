@@ -33,6 +33,6 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=curso-git)](https://github.com/LuisPaulo1/curso-git)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisPaulo1)](https://github.com/LuisPaulo1/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisPaulo1)](https://github.com/LuisPaulo1/DSVendas)
   
   
