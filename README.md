@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💼 Atualmente trabalhando como Full Stack utilizando Java e Spring no Backend e React no Frontend
+- 💼 Atualmente trabalhando como Full Stack utilizando Java, Spring e React
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
 - 😄 Pronomes: ele/dele
