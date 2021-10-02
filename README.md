@@ -7,6 +7,7 @@
 - 💼 Atualmente trabalhando como Full Stack utilizando Java, Spring e React
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
+- 💬 Pergunte algo <a href="https://github.com/LuisPaulo1/LuisPaulo1/issues">aqui</a>
 - 😄 Pronomes: ele/dele
 
 <div>
