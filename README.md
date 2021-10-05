@@ -1,6 +1,6 @@
 <h2>Olá, bem vindo ao meu perfil!<img src="https://github.com/LuisPaulo1/assets/blob/master/perfil/01.gif" height="30" width="30" alt="Saudação"/></h2>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=LuisPaulo1" alt="Visualização" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LuisPaulo1" alt="Visualizações" /></p>
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
