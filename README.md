@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💼 Atualmente trabalhando como Full Stack utilizando Java, Spring e React
+- 💼 Atualmente trabalhando como Desenvolvedor Pleno
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
 - 💬 Pergunte algo <a href="https://github.com/LuisPaulo1/LuisPaulo1/issues/new">aqui</a>
