@@ -7,7 +7,6 @@
 - 💼 Atualmente trabalhando como Desenvolvedor Pleno
 - 💻 Estudando React, Microsserviços e Devops
 - 👨‍🎓 Graduando em Sistemas de Informação
-- 💬 Pergunte algo <a href="https://github.com/LuisPaulo1/LuisPaulo1/issues/new">aqui</a>
 
 <div>
   <a href="https://github.com/LuisPaulo1">
