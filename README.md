@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 Sobre mim</h3>
 
 - 💼 Atualmente trabalhando como Desenvolvedor Pleno
-- 💻 Estudando React, Microsserviços e DevOps
+- 💻 Estudando Microsserviços e DevOps
 - 👨‍🎓 Graduando em Sistemas de Informação
 
 <div>
