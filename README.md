@@ -55,7 +55,7 @@ Fixado
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=DSVendas)](https://github.com/LuisPaulo1/DSVendas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=movieflix)](https://github.com/LuisPaulo1/movieflix)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=imdb-api)](https://github.com/LuisPaulo1/imdb-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=busca-cep)](https://github.com/LuisPaulo1/busca-cep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=corrida-api)](https://github.com/LuisPaulo1/corrida-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=github-api)](https://github.com/LuisPaulo1/github-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPaulo1&repo=dssales)](https://github.com/LuisPaulo1/dssales.git)
   
