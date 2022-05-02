@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💼 Atualmente trabalhando como Desenvolvedor Pleno
+- 💼 Atualmente trabalhando como Desenvolvedor Sênior
 - 💻 Estudando Microsserviços e DevOps
 - 👨‍🎓 Graduando em Sistemas de Informação
 
