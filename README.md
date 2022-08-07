@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 Sobre mim</h3>
 
 - 💼 Atualmente trabalhando como Desenvolvedor Sênior
-- 💻 Estudando Microsserviços
+- 💻 Estudando Kotlin
 - 👨‍🎓 Graduando em Ciência da Computação
 
 <div>
