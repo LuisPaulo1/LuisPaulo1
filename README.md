@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/LuisPaulo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPaulo1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisPaulo1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPaulo1&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
 </div>
   
