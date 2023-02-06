@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💼 Atualmente trabalhando como Desenvolvedor Java
+- 💼 Atualmente trabalhando como Analista de Sistemas
 - 💻 Estudando Java 17, GO e Microserviços
 - 👨‍🎓 Graduando em Ciência da Computação
 
