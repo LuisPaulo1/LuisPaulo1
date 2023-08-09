@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💻 Estudando Java 17, MongoDB
+- 💻 Estudando Java 17, Microserviços
 - 👨‍🎓 Graduando em Ciência da Computação
 
 <div>
