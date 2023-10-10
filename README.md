@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💻 Estudando Java 17, Testes unitários
+- 💻 Estudando Java 17 e Angular
 - 👨‍🎓 Graduando em Ciência da Computação
 
 <div>
