@@ -46,7 +46,5 @@
  # 
  <div>
    <a href="https://www.linkedin.com/in/luis-paulo-souza-a54358134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:csluispaulo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-   ![Snake animation](https://github.com/LuisPaulo1/LuisPaulo1/blob/output/github-contribution-grid-snake.svg)
+   <a href = "mailto:csluispaulo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
