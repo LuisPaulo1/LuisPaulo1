@@ -4,7 +4,7 @@
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 💻 Estudando Java 17 e Kotlin
+- 💻 Estudando Java 17 e React
 - 👨‍🎓 Graduando em Ciência da Computação
 
 <div>
